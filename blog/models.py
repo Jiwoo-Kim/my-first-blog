@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+#sudo /opt/sublime_text/sublime_text
+
 from __future__ import unicode_literals
 
 from django.db import models
